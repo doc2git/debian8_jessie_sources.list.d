@@ -1,0 +1,12 @@
+位于分支 master
+未跟踪的文件:
+	commit_stderr.log
+	commit_stdout.log
+
+提交为空，但是存在尚未跟踪的文件
+commit a9ae85ff01d67b2138c95c2de2dd7afaa151a2d1
+Author: root <root@b.d>
+Date:   Sun Dec 25 23:11:31 2016 +0800
+
+    remove gitlab source from the source.list.d, once I configure gitlab well, I do not hope it frequently update. If I need, I can checkout to the special branch, which named aliyun_and_gitlab_sources.list. On the other hand, remove the gitlab_gitlab-ce.list is helpfull to the time of 'apt update' command
+
